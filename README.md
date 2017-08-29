@@ -11,7 +11,7 @@ would add to this effort.
 
 ## Getting started with the Nubis Project
 
-Welcome to the Nubis Project. We hope you will find that it meats your
+Welcome to the Nubis Project. We hope you will find that it meets your
 requirements and is easy to use. In this document I will introduce you to the
 Nubis Project and give you a number of links to other documents that will help
 you along.
