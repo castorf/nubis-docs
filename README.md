@@ -33,7 +33,7 @@ list looks long most of the documents are quite short.
   Will give you an outline of the pieces of the project.
 * [Git & GitHub](https://github.com/Nubisproject/nubis-docs/blob/master/GIT_GITHUB.md)
   provides some advice specific to Nubis.
-* [Templating)](https://github.com/Nubisproject/nubis-docs/blob/master/TEMPLATING.md)
+* [Templating](https://github.com/Nubisproject/nubis-docs/blob/master/TEMPLATING.md)
   walks through some recomendations on structure and workflow.
 * [Project Onboarding](https://github.com/Nubisproject/nubis-docs/blob/master/PROJECT_ONBOARDING.md)
   will guide you through on-boarding your first application.
